@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3dSurfaceArea", "3dSurfaceA
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Encryption", "Encryption\Encryption.vcxproj", "{D3BF2246-1D9B-43EC-BB58-191297EDAB91}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CountingValleys", "CountingValleys\CountingValleys.vcxproj", "{A4B32BE7-DD7E-45F7-B4E1-64E626D5B5DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{D3BF2246-1D9B-43EC-BB58-191297EDAB91}.Release|x64.Build.0 = Release|x64
 		{D3BF2246-1D9B-43EC-BB58-191297EDAB91}.Release|x86.ActiveCfg = Release|Win32
 		{D3BF2246-1D9B-43EC-BB58-191297EDAB91}.Release|x86.Build.0 = Release|Win32
+		{A4B32BE7-DD7E-45F7-B4E1-64E626D5B5DE}.Debug|x64.ActiveCfg = Debug|x64
+		{A4B32BE7-DD7E-45F7-B4E1-64E626D5B5DE}.Debug|x64.Build.0 = Debug|x64
+		{A4B32BE7-DD7E-45F7-B4E1-64E626D5B5DE}.Debug|x86.ActiveCfg = Debug|Win32
+		{A4B32BE7-DD7E-45F7-B4E1-64E626D5B5DE}.Debug|x86.Build.0 = Debug|Win32
+		{A4B32BE7-DD7E-45F7-B4E1-64E626D5B5DE}.Release|x64.ActiveCfg = Release|x64
+		{A4B32BE7-DD7E-45F7-B4E1-64E626D5B5DE}.Release|x64.Build.0 = Release|x64
+		{A4B32BE7-DD7E-45F7-B4E1-64E626D5B5DE}.Release|x86.ActiveCfg = Release|Win32
+		{A4B32BE7-DD7E-45F7-B4E1-64E626D5B5DE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
